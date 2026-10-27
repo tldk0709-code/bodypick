@@ -1,0 +1,290 @@
+{
+ "version": 1,
+ "links": {
+  "닭가슴살": {
+   "id": "chicken",
+   "items": [
+    {
+     "기준": "#쿠팡1위",
+     "name": "다온햄 소스 통살 닭가슴살 5종 혼합 맛보기, 20개, 100g",
+     "url": "https://link.coupang.com/a/hO67QEHmNg"
+    },
+    {
+     "기준": "#가성비",
+     "name": "뺀닭 블랙페퍼 닭가슴살, 50개, 100g",
+     "url": "https://link.coupang.com/a/hO7h3fKsUe"
+    },
+    {
+     "기준": "#실온보관",
+     "name": "국내산 바로먹는 실온 닭가슴살 5종 혼합 홀리닭 다이어트 식단 단백질 간편한 실온보관 헬스 닭가슴살추천, 110g, 20개",
+     "url": "https://link.coupang.com/a/hO7lMRBgJw"
+    },
+    {
+     "기준": "#맛·식감",
+     "name": "한끼통살 통살 소스 닭가슴살 14종 세트 (냉동), 100g, 1개입, 14개",
+     "url": "https://link.coupang.com/a/hO7zbzwQGy"
+    }
+   ]
+  },
+  "참치캔 · 게맛살": {
+   "id": "cannedSeafood",
+   "items": [
+    {
+     "기준": "#기름뺀참치",
+     "name": "동원참치 살코기 인 워터, 100g, 10개",
+     "url": "https://link.coupang.com/a/hQhPknpQRw"
+    },
+    {
+     "기준": "#초간편크래미",
+     "name": "5분마켓 게맛살 기획전 5개상품X3개 크래미 크라비아",
+     "url": "https://link.coupang.com/a/hQh4ewseDA"
+    },
+    {
+     "기준": "#고단백크래미",
+     "name": "한성기업 프로틴 크랩, 140g, 2개",
+     "url": "https://link.coupang.com/a/hQhYXfwsvI"
+    },
+    {
+     "기준": "#대용량가성비",
+     "name": "퍼시피카튜나 기름뺀 참치 파우치 업소용, 1개, 1.4kg",
+     "url": "https://link.coupang.com/a/hQhUw7ASL6"
+    }
+   ]
+  },
+  "다이어트 도시락": {
+   "id": "lunchbox",
+   "items": [
+    {
+     "기준": "#초저칼로리",
+     "name": "곰곰 닭가슴살 곤약 볶음밥 + 소고기 곤약 볶음밥 + 매콤 해물 곤약 볶음밥 (냉동), 200g, 18세트",
+     "url": "https://link.coupang.com/a/hQieDP62uX"
+    },
+    {
+     "기준": "#고단백",
+     "name": "방탄푸드 닭가슴살 곤약 볶음밥 도시락 230g 4종 8+1팩",
+     "url": "https://link.coupang.com/a/hQioywqDng"
+    },
+    {
+     "기준": "#리뷰베스트",
+     "name": "곰곰 밥 도시락 시즌2 250g 6종, 1.5kg, 1세트",
+     "url": "https://link.coupang.com/a/hQityUvLNc"
+    },
+    {
+     "기준": "#저당·저탄수",
+     "name": "곰곰 닭 도시락 185g 6종, 1세트",
+     "url": "https://link.coupang.com/a/hQiGVanGlE"
+    }
+   ]
+  },
+  "단백질 바 · 쿠키 · 아이스크림": {
+   "id": "snack",
+   "items": [
+    {
+     "기준": "#고단백·저당바",
+     "name": "비비드몽타주 인 프로틴바 26g 10개입 크림 콜라보",
+     "url": "https://link.coupang.com/a/hQiSmBVji0"
+    },
+    {
+     "기준": "#가성비바",
+     "name": "포스트 단백질바, 500g, 4개",
+     "url": "https://link.coupang.com/a/hQiWsEBKFM"
+    },
+    {
+     "기준": "#단백질쿠키",
+     "name": "랩노쉬 단백쿠키 믹스 5종 2p 세트, 400g, 1세트",
+     "url": "https://link.coupang.com/a/hQi2LPP59U"
+    },
+    {
+     "기준": "#저칼로리아이스크림",
+     "name": "단백질과자점 프로틴 아이스 다크초콜릿 (냉동), 474ml, 1개입, 1개",
+     "url": "https://link.coupang.com/a/hQi9pEHHUG"
+    }
+   ]
+  },
+  "프로틴 분말 · 단백질 음료": {
+   "id": "protein",
+   "items": [
+    {
+     "기준": "#RTD음료1위",
+     "name": "더단백 드링크 초코, 250ml, 18개",
+     "url": "https://link.coupang.com/a/hQjdbZoUZo"
+    },
+    {
+     "기준": "#WPI분말",
+     "name": "락토프리 당제로 프로틴컴퍼니 머슬코어 아이솔레이트 프로틴 1kg 초코맛, 1개",
+     "url": "https://link.coupang.com/a/hQjhD9HWGy"
+    },
+    {
+     "기준": "#가성비분말",
+     "name": "베네틴 플랜트 프로틴 단백질 쉐이크 아이솔레이트 초코맛, 1개, 2kg",
+     "url": "https://link.coupang.com/a/hQjl0ZiPg4"
+    },
+    {
+     "기준": "#고단백RTD",
+     "name": "테이크핏 몬스터 초코바나나 프로틴, 350ml, 24개",
+     "url": "https://link.coupang.com/a/hQjqWLgizY"
+    }
+   ]
+  },
+  "그릭요거트": {
+   "id": "yogurt",
+   "items": [
+    {
+     "기준": "#무설탕꾸덕",
+     "name": "매일바이오 그릭요거트 무가당 플레인, 150g, 12개",
+     "url": "https://link.coupang.com/a/hQjynRtfie"
+    },
+    {
+     "기준": "#대용량가성비",
+     "name": "매일바이오 그릭 요거트 무가당 플레인, 800g, 3개",
+     "url": "https://link.coupang.com/a/hQjFNI1sXc"
+    },
+    {
+     "기준": "#소포장드링킹",
+     "name": "상하목장 유기농 그릭요거트 무가당 플레인, 80g, 20개",
+     "url": "https://link.coupang.com/a/hQjIXZvv2X"
+    },
+    {
+     "기준": "#저지방",
+     "name": "매일바이오 무가당 저지방 그릭요거트, 400g, 2개",
+     "url": "https://link.coupang.com/a/hQjM5Bh88W"
+    }
+   ]
+  },
+  "연두부": {
+   "id": "tofu",
+   "items": [
+    {
+     "기준": "#소포장1위",
+     "name": "곰곰 하루1팩 국산콩 연두부+오리엔탈소스, 134g, 12개입",
+     "url": "https://link.coupang.com/a/hQjRcOqfK0"
+    },
+    {
+     "기준": "#소스포함",
+     "name": "풀무원 한끼 연두부 + 오리엔탈 유자 소스 6개입, 708g, 1세트",
+     "url": "https://link.coupang.com/a/hQj0FEYERU"
+    },
+    {
+     "기준": "#고단백단단한두부",
+     "name": "청정원 고단백 두부, 300g, 2개",
+     "url": "https://link.coupang.com/a/hQj3oIMKuO"
+    },
+    {
+     "기준": "#초가성비묶음",
+     "name": "곰곰 네컵 연두부",
+     "url": "https://link.coupang.com/a/hQj6TVkrpA"
+    }
+   ]
+  },
+  "오트밀": {
+   "id": "oat",
+   "items": [
+    {
+     "기준": "#퀵오츠",
+     "name": "퀘이커 마시는 오트밀 단백질 낱봉팩 20p, 1kg, 1개",
+     "url": "https://link.coupang.com/a/hQj9ZKdrMa"
+    },
+    {
+     "기준": "#롤드오츠",
+     "name": "냉장고 쏙 롤드 오트, 2.5kg, 1개",
+     "url": "https://link.coupang.com/a/hQkeYNFQLQ"
+    },
+    {
+     "기준": "#오트밀시리얼",
+     "name": "마켓오네이처 오그래놀라 오트 리얼 초콜릿 시리얼, 360g, 1개",
+     "url": "https://link.coupang.com/a/hQkpXMsNyK"
+    }
+   ]
+  },
+  "견과류 믹스": {
+   "id": "nuts",
+   "items": [
+    {
+     "기준": "#무염·건과일X",
+     "name": "미소한입 모듬견과믹스넛, 1kg, 1개",
+     "url": "https://link.coupang.com/a/hQkyuB3pEi"
+    },
+    {
+     "기준": "#마카다미아·아몬드위주",
+     "name": "넛츠팜 아몬드 호두 피칸 마카다미아, 800g, 1개",
+     "url": "https://link.coupang.com/a/hQkEbnMLIW"
+    },
+    {
+     "기준": "#초가성비하루견과",
+     "name": "감성시장 하루견과 더 오리지널 믹스넛, 20g, 30개",
+     "url": "https://link.coupang.com/a/hQkG8or8a4"
+    }
+   ]
+  },
+  "곤약": {
+   "id": "konjac",
+   "items": [
+    {
+     "기준": "#곤약젤리",
+     "name": "더존건강 한끼곤약젤리 4종 세트 28개입, 4.2kg, 1세트",
+     "url": "https://link.coupang.com/a/hQk6ljiSS4"
+    },
+    {
+     "기준": "#곤약즉석밥",
+     "name": "가뿐한끼 곤약현미잡곡밥, 130g, 18개",
+     "url": "https://link.coupang.com/a/hQlhLofXKS"
+    },
+    {
+     "기준": "#곤약면",
+     "name": "100g당 20kcal 바로먹는 발효곤약 냉모밀, 12개, 350g",
+     "url": "https://link.coupang.com/a/hQloEA9nGu"
+    },
+    {
+     "기준": "#실온곤약간식",
+     "name": "순수한집 곤약쫀드기 현미맛, 375g, 1개",
+     "url": "https://link.coupang.com/a/hQlr8CrbNs"
+    }
+   ]
+  },
+  "보조제 (크레아틴 · 글루타민 · BCAA)": {
+   "id": "supplement",
+   "items": [
+    {
+     "기준": "#순수크레아틴",
+     "name": "뉴트리코스트 크레아틴 분말, 1kg, 1개",
+     "url": "https://link.coupang.com/a/hQlzGYh7M4"
+    },
+    {
+     "기준": "#BCAA·음료대체",
+     "name": "엑스텐드 BCAAs 그레이프, 390g, 1개",
+     "url": "https://link.coupang.com/a/hQlERBl1vE"
+    },
+    {
+     "기준": "#L-글루타민",
+     "name": "뉴트리코스트 L 글루타민, 300g, 1개",
+     "url": "https://link.coupang.com/a/hQmkrQMD80"
+    },
+    {
+     "기준": "#논카페인부스터",
+     "name": "잠백이 펌프 아르기닌 무카페인 헬스부스터, 70g, 30개",
+     "url": "https://link.coupang.com/a/hQmciGKG2m"
+    }
+   ]
+  },
+  "식이섬유": {
+   "id": "fiber",
+   "items": [
+    {
+     "기준": "#차전자피",
+     "name": "종근당 차전자피 식이섬유 30개입, 204g, 1개",
+     "url": "https://link.coupang.com/a/hQmzosOO1Q"
+    },
+    {
+     "기준": "#난소화성말토덱스트린",
+     "name": "무화당 난소화성 말토덱스트린 100%, 1kg, 1개",
+     "url": "https://link.coupang.com/a/hQmCmOuXCu"
+    },
+    {
+     "기준": "#식이섬유음료",
+     "name": "태양의식후비법W차, 500ml, 24개",
+     "url": "https://link.coupang.com/a/hQmFUdd9To"
+    }
+   ]
+  }
+ }
+}
