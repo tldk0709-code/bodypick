@@ -1,13 +1,13 @@
 {
- "version": 1,
+ "version": 2,
  "links": {
   "닭가슴살": {
    "id": "chicken",
    "items": [
     {
      "기준": "#쿠팡1위",
-     "name": "다온햄 소스 통살 닭가슴살 5종 혼합 맛보기, 20개, 100g",
-     "url": "https://link.coupang.com/a/hO67QEHmNg"
+     "name": "[교체됨] 허닭 닭가슴살 스테이크 혼합 10팩",
+     "url": "https://link.coupang.com/a/TEST0001"
     },
     {
      "기준": "#가성비",
@@ -23,6 +23,11 @@
      "기준": "#맛·식감",
      "name": "한끼통살 통살 소스 닭가슴살 14종 세트 (냉동), 100g, 1개입, 14개",
      "url": "https://link.coupang.com/a/hO7zbzwQGy"
+    },
+    {
+     "기준": "#대용량",
+     "name": "[추가됨] 미트리 닭가슴살 1kg 벌크 3팩",
+     "url": "https://link.coupang.com/a/TEST0002"
     }
    ]
   },
