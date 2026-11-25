@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "popups": [
+    {
+      "id": "shop-open-2026-11",
+      "active": true,
+      "kind": "shop",
+      "start": "2026-11-25",
+      "end": "2026-12-01",
+      "priority": 0,
+      "badge": "바디픽 기획전",
+      "lead": "운동과 식단을 더 쉽게!",
+      "title": "바디픽",
+      "accent": "쇼핑 오픈",
+      "body": "단백질부터 간편식까지,\n바디픽이 모아 둔 식단 상품을\n지금 만나보세요.",
+      "image": { "asset": "shop-hero" },
+      "chips": [
+        { "label": "단백질 보충", "icon": "arm-flex-outline" },
+        { "label": "간편한 한 끼", "icon": "silverware-fork-knife" },
+        { "label": "건강한 간식", "icon": "leaf" }
+      ],
+      "cta": "바디픽 쇼핑 바로가기",
+      "link": { "screen": "shop" }
+    }
+  ]
+}
